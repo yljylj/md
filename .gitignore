@@ -1,0 +1,7 @@
+*.d
+*.cmd
+*.o
+*.ko
+disk*
+*safe
+*.mod
